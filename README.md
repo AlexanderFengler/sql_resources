@@ -14,5 +14,4 @@ This is a proper college course offerece self-paced in 2-4 week chunks (mini-cou
 
 [Coursera Specialization](https://www.coursera.org/specializations/learn-sql-basics-data-science#courses)
 
-Somewhere inbetween the former two courses. Culminates in final project.
-
+Somewhere inbetween the former two courses. Culminates in final project, has focus on practical usage, however is a whole specialization hence likely broadest coverage.
