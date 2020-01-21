@@ -15,3 +15,7 @@ This is a proper college course offerece self-paced in 2-4 week chunks (mini-cou
 [Coursera Specialization](https://www.coursera.org/specializations/learn-sql-basics-data-science#courses)
 
 Somewhere inbetween the former two courses. Culminates in final project, has focus on practical usage, however is a whole specialization hence likely broadest coverage.
+
+## Public Datasets
+
+[Github repo with a ton of public datasets arranged by knowledge domain](https://github.com/AlexanderFengler/awesome-public-datasets)
